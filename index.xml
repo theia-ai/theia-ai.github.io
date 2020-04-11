@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industrial Artificial Intelligence on THEIA: Industrial Ariticial Intelligence</title>
+    <link>http://theia-ai.ch/</link>
+    <description>Recent content in Industrial Artificial Intelligence on THEIA: Industrial Ariticial Intelligence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://theia-ai.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://theia-ai.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://theia-ai.ch/contact/</guid>
+      <description>If you want to know more about Theia and our industrial artificial intelligence platform, please contact us using the form below.
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+  </channel>
+</rss>
